@@ -10,7 +10,7 @@ Software engineering systematically applies engineering principles, methods, and
 Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Eevelopment of programming language 
+development of programming language 
 Establishment of software engineering as a disciplineTthe rise of agile methodologist
 The advent of structured programming
 
@@ -47,6 +47,10 @@ Strategies for overcoming challenges:strategies for overcoming challenges includ
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+unit testing: testing individual components or module of software 
+integration:testing interactions between different components or subsystems
+system: testing the entire software systems as a whole 
+acceptance:testing the software against user requirements to ensure it meets user needs
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -55,3 +59,9 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is like creating a special recipe for your robot. Just like a recipe tells you exactly what ingredients to use and how to mix them to bake a delicious cake, a prompt tells the robot exactly what information you need and how you want it presented.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+To craft effective prompts, be clear, specific and concise. 
+prompt engineering helps avoid that by making your questions clear and specific so that AI understands exactly what you need.
+prompt engineering is used in many real world applications like chatbots,virtual assistants and content generation tools. 
+it helps improve the interaction between humans and AI. The best way to get better at prompt engineering is to practice. 
+Try crafting different prompts and see how the AI responds and don't forget to ask feedback from peers or mentors
