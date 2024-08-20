@@ -52,6 +52,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is like creating a special recipe for your robot. Just like a recipe tells you exactly what ingredients to use and how to mix them to bake a delicious cake, a prompt tells the robot exactly what information you need and how you want it presented.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
