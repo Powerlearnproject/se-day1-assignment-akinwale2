@@ -33,6 +33,8 @@ quality assurance engineer ensures software quality by designing and executing t
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+integrated development environments are software that provide comprehensive tools for writing,debugging and testing code e.g visual studio,eclipse,IDEA.
+version control system are software tools for tracking changes to source code and cordinating work amongteam members e.g Git,Subversion
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
