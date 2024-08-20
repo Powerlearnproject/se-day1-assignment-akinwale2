@@ -38,9 +38,10 @@ version control system are software tools for tracking changes to source code an
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-changing requirement:requirements may change during the development cycle,leading to scope creep and project delays
-tight deadlines:pressure to deliver software products on schedule can result in rushed development and compromised quality
-technical debt:accrued from shortcuts or suboptimal solution,technical debtcan impede future development efforts and increase maintenance costs
+Changing requirement:requirements may change during the development cycle,leading to scope creep and project delays
+Tight deadlines:pressure to deliver software products on schedule can result in rushed development and compromised qualityTtechnical Debt:accrued from shortcuts or suboptimal solution,technical debtcan impede future development efforts and increase maintenance costs
+
+Strategies for overcoming challenges:strategies for overcoming challenges include effective communication,agile methodologies,prioritization of tasks and regular reassessment of project goals and timelines
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
